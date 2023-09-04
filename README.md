@@ -1,4 +1,4 @@
-# COVID-19-Confirmed-Case-Analysis
+# COVID-19-Confirmed-Cases-Analysis
 ###### Find the English version of this README file in the main branch of this project
 A partir de un proyecto guiado en Coursera hace ya casi 3 años, he decidido retomar el análisis y agregarle algunas preguntas de mi autoría que me fueron surgiendo, a partir de mi curiosidad de conocer cómo fue la situación de mi país Ecuador durante la pandemia. *Proyecto en desarrollo
 
