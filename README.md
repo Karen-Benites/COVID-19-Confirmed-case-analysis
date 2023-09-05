@@ -23,7 +23,9 @@ Quise orientar este análisis a la situación de Ecuador durante los primeros me
 <p align="center">
   <img src= "https://github.com/Karen-Benites/COVID-19-Confirmed-cases-analysis/blob/main/Pictures/Confirmed%20cases%20over%20time%20for%20three%20countries.png">
 </p>
+
 - Comparando la tasa de infección diaria de los mismos 3 países, vemos que Brasil tiene un crecimiento sostenido y muy alto de contagios diarios en comparación con Ecuador y Argentina; a excepción de un día en Abril del 2020; en donde Ecuador sobrepasó con creces a los otros dos países en número de nuevos contagiados en un sólo día. Esto me llamó la atención; ya que es la segunda vez que veo un comportamiento destacable para mi país en comparación con otros países de América Latina. Esto me llevó a querer ver la evolución de casos confirmados en otros países a nivel mundial y compararlo con Ecuador.
+
 <p align="center">
   <img src= "https://github.com/Karen-Benites/COVID-19-Confirmed-cases-analysis/blob/main/Pictures/Daily%20Infection%20rate%20comparison%20(3%20countries).png?raw=true">
 </p>
@@ -34,6 +36,7 @@ Quise orientar este análisis a la situación de Ecuador durante los primeros me
 <p align="center">
   <img src= "https://github.com/Karen-Benites/COVID-19-Confirmed-cases-analysis/blob/main/Pictures/Top%2010%20countries%20with%20highest%20COVID%2019%20new%20cases%20under%2024%20h.png">
 </p>
+
 ## ¿Qué sigue próximamente?
 Deseo expandir aún más este análisis que hice; añadiendo los siguientes elementos:
 - Comparación con otros factores como: índices de felicidad por país, su GDP per cápita, etc.
